@@ -1,0 +1,10 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,Claude (AI) + SV kiểm lại,"23 vật; #10 car ở xa vẫn can_review"
+img_004.jpg,,bo_sot,Claude (AI) + SV kiểm lại,"xe hơi trắng bị che sau tuk-tuk xanh #25 (khoảng x 160-230, y 270-390) chưa có box"
+img_005.jpg,,khong,Claude (AI) + SV kiểm lại,"ảnh dày 33 vật; chỉ kiểm theo góc phần tư, không thấy lỗi rõ"
+img_009.jpg,,khong,Claude (AI) + SV kiểm lại,"box xe máy #109 không gồm hàng chuối nhô ra (theo quyết định CAL câu hỏi mở 3)"
+img_017.jpg,,khong,Claude (AI) + SV kiểm lại,"3 tuk-tuk + 3 người đủ"
+img_018.jpg,,bo_sot,Claude (AI) + SV kiểm lại,"người áo đỏ đi sau 2 phụ nữ (#166) chưa có box person (khoảng x 693-720, y 498-530)"
+img_018.jpg,,bo_sot,Claude (AI) + SV kiểm lại,"xe đạp của người áo đỏ chưa có box bicycle (khoảng x 705-722, y 520-555)"
+img_024.jpg,273,sai_vi_tri_kich_thuoc,Claude (AI) + SV kiểm lại,"ignore_region #273 trùm lên các xe đã gán từng chiếc (#277, #278, #307): vùng ignore phải thu nhỏ, chỉ phủ hàng xe xa không tách được"
+img_035.jpg,,khong,Claude (AI) + SV kiểm lại,"xích lô #491 đã gộp 1 box; không thấy lỗi rõ"
