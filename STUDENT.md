@@ -1,13 +1,13 @@
 # Thông tin học viên
 
-- Họ và tên: <<>>
-- MSHV: <<>>
-- Lớp (L2 / L3 / khác): <<>>
-- Tài khoản GitHub: <<>>
+- Họ và tên: Trần Quang Vinh
+- MSHV: 2A202603054
+- Lớp (L2 / L3 / khác): L2A
+- Tài khoản GitHub: 
 - Repo bài nộp (URL): <<>>
 - Commit chốt bài (hash): <<>>
-- Máy: <<hệ điều hành, GPU (CUDA / MPS / không có)>>
-- CVAT (Docker): <<phiên bản, ví dụ v2.81.0>>
+- Máy: macOS 14.5, Intel i5-8259U, không GPU
+- CVAT (Docker): v2.82.0
 
 ## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
 
