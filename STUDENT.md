@@ -3,9 +3,9 @@
 - Họ và tên: Trần Quang Vinh
 - MSHV: 2A202603054
 - Lớp (L2 / L3 / khác): L2A
-- Tài khoản GitHub: 
+- Tài khoản GitHub: gloryTran04
 - Repo bài nộp (URL): https://github.com/gloryTran04/K5-L2-Day08-TranQuangVinh-2A202603054-AI-Assisted-Labeling
-- Commit chốt bài (hash): (điền sau commit cuối)
+- Commit chốt bài (hash): 7f3cdbc6f1a86e9d9b89ee9c93b0935a20c6ec28.
 - Máy: macOS 14.5, Intel i5-8259U, không GPU
 - CVAT (Docker): v2.82.0
 
